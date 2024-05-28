@@ -24,7 +24,7 @@ scikit-image é uma biblioteca de processamento de imagens que faz parte do ecos
 Instalação dos Pacotes
 Para começar a utilizar esses pacotes, você precisará instalá-los. Você pode usar o pip para instalar cada um deles.
 
-<b> Códigos estão no diretório </>
+<b> Códigos estão no diretório </b>
 
 Conclusão
 Neste projeto, exploramos três pacotes de processamento de imagens em Python: OpenCV, Pillow e scikit-image. Demonstramos como instalar esses pacotes e realizar operações básicas e avançadas de processamento de imagens, como conversão de cores, redimensionamento, rotação, filtragem e detecção de bordas, e transformações geométricas. Também abordamos como processar múltiplas imagens de forma eficiente utilizando scripts de processamento em lote.
